@@ -464,8 +464,9 @@ github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510/go.mod h1:pupxD2MaaD3
 github.com/google/trillian v1.3.11/go.mod h1:0tPraVHrSDkA3BO6vKX67zgLXs6SsOAbHEivX+9mPgw=
 github.com/google/uuid v0.0.0-20161128191214-064e2069ce9c/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/google/uuid v1.0.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
-github.com/google/uuid v1.1.1 h1:Gkbcsh/GbpXz7lPftLA3P6TYMwjCLYm83jiFQZF/3gY=
 github.com/google/uuid v1.1.1/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/google/uuid v1.1.2 h1:EVhdT+1Kseyi1/pUmXKaFxYsDNy9RQYkMWRH68J/W7Y=
+github.com/google/uuid v1.1.2/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/googleapis/gax-go/v2 v2.0.4/go.mod h1:0Wqv26UfaUD9n4G6kQubkQ+KchISgw+vpHVxEJEs9eg=
 github.com/googleapis/gax-go/v2 v2.0.5/go.mod h1:DWXyrwAJ9X0FpwwEdw+IPEYBICEFu5mhpdKc/us6bOk=
 github.com/gookit/color v1.3.1/go.mod h1:R3ogXq2B9rTbXoSHJ1HyUVAZ3poOJHpd9nQmyGZsfvQ=
@@ -818,8 +819,9 @@ github.com/powerman/check v1.0.1/go.mod h1:wOYaLZeuhk6i79TDfPcqkDx70tbaVLEiE0aqM
 github.com/powerman/check v1.1.0/go.mod h1:nX1qs/UsVgnQrkebazvKUJzMrtOItv4O0+Y79nhVi3Y=
 github.com/powerman/check v1.2.1/go.mod h1:IW+hYd9ihaKn7ri1+NGS8WWwrKdytbU8hgNC1wbcurc=
 github.com/powerman/check v1.3.0/go.mod h1:k/8NCUQwepaKJKctBBKjQo84jvGEvKiumD9pDl87RB0=
-github.com/powerman/check v1.3.1 h1:86xiEjMNn0K4b3bhQsLfrLqJb0DWLXHBK3wBd5PoJH4=
 github.com/powerman/check v1.3.1/go.mod h1:k/8NCUQwepaKJKctBBKjQo84jvGEvKiumD9pDl87RB0=
+github.com/powerman/check v1.4.0 h1:OgzhmFqOu62JlhYyX+7jovnAGWpFDKsj+bXuRpbOcw8=
+github.com/powerman/check v1.4.0/go.mod h1:o0dwswQeCvb3yuz6sk4tLcEQpRen/0AHtxp0CI1NbTI=
 github.com/powerman/dockerize v0.14.0 h1:dJF0RJe3G19RDk6hlvHab2TUOaJaqBlWaKBPFvXHFbw=
 github.com/powerman/dockerize v0.14.0/go.mod h1:38ddObbt5t4+kiUofHe5kBCXsxqw58WqVrLOUmZOlYw=
 github.com/powerman/getenv v0.1.0 h1:GTqwBYwtjoxjK/kB+qDyfUiqSz7vZ5431x002ftW13s=
@@ -842,8 +844,8 @@ github.com/powerman/sensitive v0.0.6 h1:cLE/om0/J2mpiI/Z6o1r9AUbs8Q7G1vhISEbdGeI
 github.com/powerman/sensitive v0.0.6/go.mod h1:BT3bBXUqTDKM13MXlYvN4Csg9WXSZblJ12mGgHAY/wU=
 github.com/powerman/sqlxx v0.2.0 h1:NA2Z+o7Q6Lu9UqwGFqqPePKWoPYZ5doOsBnfstCU1uU=
 github.com/powerman/sqlxx v0.2.0/go.mod h1:dsfudBeSTo0U61OEAC/WS0Ea7qityww7jvFvWt3U1Fw=
-github.com/powerman/structlog v0.7.1 h1:68xN/GdxU7SYbXu/7P4RWyK7lKaN7FXjncarf7wO+Wk=
-github.com/powerman/structlog v0.7.1/go.mod h1:ksFcAlZ6WcmwQScaECqbijO3pEAKiSVKmJo/Vtpw8aM=
+github.com/powerman/structlog v0.7.3 h1:wXCwlBfsYhNFrX3UGzWRStw7K/5dn3gCsO9DD1RVMJ0=
+github.com/powerman/structlog v0.7.3/go.mod h1:4vPAo9JvAAu9oLNnjvZMWjBZh+GLESFKoTdfhRbrHqI=
 github.com/powerman/tail v0.1.0 h1:EznVt+S27fLfHlf8oFV55azSWx24i7inhTvVT+z4dtM=
 github.com/powerman/tail v0.1.0/go.mod h1:1UwnzK89DQ07dUa3H2MY8SoOhY5krVwHqkxRkuSZBlY=
 github.com/pquerna/cachecontrol v0.0.0-20180517163645-1555304b9b35/go.mod h1:prYjPmNq4d1NPVmpShWobRqXY3q7Vp+80DqgxxUrUIA=
@@ -1478,8 +1480,9 @@ google.golang.org/grpc v1.27.0/go.mod h1:qbnxyOmOxrQa7FizSgH+ReBfzJrCY1pSN7KXBS8
 google.golang.org/grpc v1.27.1/go.mod h1:qbnxyOmOxrQa7FizSgH+ReBfzJrCY1pSN7KXBS8abTk=
 google.golang.org/grpc v1.28.0/go.mod h1:rpkK4SK4GF4Ach/+MFLZUBavHOvF2JJB5uozKKal+60=
 google.golang.org/grpc v1.29.0/go.mod h1:itym6AZVZYACWQqET3MqgPpjcuV5QH3BxFS3IjizoKk=
-google.golang.org/grpc v1.29.1 h1:EC2SB8S04d2r73uptxphDSUG+kTKVgjRPF+N3xpxRB4=
 google.golang.org/grpc v1.29.1/go.mod h1:itym6AZVZYACWQqET3MqgPpjcuV5QH3BxFS3IjizoKk=
+google.golang.org/grpc v1.33.1 h1:DGeFlSan2f+WEtCERJ4J9GJWk15TxUi8QGagfI87Xyc=
+google.golang.org/grpc v1.33.1/go.mod h1:fr5YgcSWrqhRRxogOsw7RzIpsmvOZ6IcH4kBYTpR3n0=
 google.golang.org/protobuf v0.0.0-20200109180630-ec00e32a8dfd/go.mod h1:DFci5gLYBciE7Vtevhsrf46CRTquxDuWsQurQQe4oz8=
 google.golang.org/protobuf v0.0.0-20200221191635-4d8936d0db64/go.mod h1:kwYJMbMJ01Woi6D6+Kah6886xMZcty6N08ah7+eCXa0=
 google.golang.org/protobuf v0.0.0-20200228230310-ab0ca4ff8a60/go.mod h1:cfTl7dwQJ+fmap5saPgwCLgHXTUD7jkjRqWcaiX5VyM=
